@@ -76,5 +76,3 @@ while infinite_Loop_Variable == 0:
         infinite_Loop_Variable = 1
     else:
         infinite_Loop_Variable = 0
-
-# git remote add origin https://github.com/SanjayKashyap2/Blackjack-Terminal-Python.git
